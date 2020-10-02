@@ -1,3 +1,3 @@
 # RecommendationSystem
-I have created a simple recommendation system using correlation matrix. I'll further enchance or devrelop this particular folder.
+Developed a simple recommendation system using correlation matrix. Will further enchance or develop this project
 Thank you
